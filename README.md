@@ -1,4 +1,4 @@
-![Qwiic SGP40 Python Package](docs/images/sgp40-gh-banner-py.png "qwiic SGP40 Python Package" )
+![Qwiic SGP40 Python Package](docs/images/sgp40-gh-banner-py.PNG "qwiic SGP40 Python Package" )
 
 # SparkFun Qwiic SGP40 - Python Package
 
